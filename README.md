@@ -14,6 +14,6 @@
 ### 使用说明：
 - keywords.txt：
   - 每行一个关键字，留空会忽略
-  - 可输入城市名/品类名，例如Beijing/Lighters等，请自行发掘，只要能在https://m.alibaba.com/trade/search页面搜索的，自动搜索中国相关企业
+  - 可输入城市名/品类名，例如Beijing/Lighters等，请自行发掘，只要能在 https://m.alibaba.com/trade/search 页面搜索到的，会自动搜索中国相关企业
 - 结果自动保存在save.csv
 - 请自行安装支持库
